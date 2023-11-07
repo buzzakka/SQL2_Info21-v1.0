@@ -1,0 +1,6 @@
+id,peer,recommendedpeer
+1,peer 1,peer 2
+2,peer 1,peer 3
+3,peer 1,peer 4
+4,peer 2,peer 3
+5,peer 4,peer 5

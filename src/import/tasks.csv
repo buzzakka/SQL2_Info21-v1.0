@@ -1,0 +1,9 @@
+title,parenttask,maxxp
+C1_SimpleBashUtils,,250
+C2_s21_string+,C1_SimpleBashUtils,500
+DO1_Linux,C2_s21_string+,350
+DO2_Network,DO1_Linux,500
+CPP1_matrix+,C2_s21_string+,300
+CPP2_SmartCalc_v2.0,CPP1_matrix+,600
+A1_Maze,CPP2_SmartCalc_v2.0,300
+A2_SimpleNavigator_v1.0,A1_Maze,400
